@@ -195,6 +195,8 @@ Be able to design a modern enterprise infrastructure based on:
 
 https://learn.microsoft.com/security/privileged-access-workstations/
 
+https://github.com/microsoft/ActiveDirectoryTierModel
+
 ---
 
 ## 2. Enterprise Access Model
